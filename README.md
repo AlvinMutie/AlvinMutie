@@ -1,4 +1,4 @@
-[![MasterHead]([https://media1.tenor.com/images/d9f9556645d9a96ce023f3367d4403f8/tenor.gif?itemid=17795276](https://i.pinimg.com/originals/cd/a2/b8/cda2b820d46413ad8d0997451bafc286.gif))
+[![MasterHead]((https://i.pinimg.com/originals/cd/a2/b8/cda2b820d46413ad8d0997451bafc286.gif))
 
 <h1 align="center">Hi 👋, I'm Alvin Mutie</h1>
 <h3 align="center">A passionate Software developer.</h3>

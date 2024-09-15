@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/51/2f/c3/512fc362a4ca2663778db016c2b7f703.gif)
+![MasterHead](https://i.pinimg.com/originals/aa/91/a7/aa91a7851f25f26169a9986f03732a37.gif)
 
 <h1 align="center">Hi 👋, I'm Alvin Mutie</h1>
 <h3 align="center">A passionate Software developer.</h3>

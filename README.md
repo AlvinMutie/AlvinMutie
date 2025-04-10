@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on sharpening my Coding skills.<br>🌱 I’m currently an IT Student.<br>
+🔭 WELCOME.<br>
 
 
 # 💻 Tech Stack:

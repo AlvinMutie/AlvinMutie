@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Tech enthusiasistic with the aim of learning more and developing products in the tech world :).<br>
+🔭 Tech enthusiastic with the aim of learning more and developing products in the tech world :).<br>
 
 
 # 💻 Tech Stack:
